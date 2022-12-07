@@ -1,0 +1,11 @@
+Ciclo de vida de los componentes, así tambien se sus hooks las cuales son funciones 
+que nos permiten definir acciones en cada etapa del ciclo de los componentes
+
+beforeCreate.
+created.
+beforeMount.
+mounted.
+beforeUpdate.
+updated.
+beforeUnmount.
+unmounted.
